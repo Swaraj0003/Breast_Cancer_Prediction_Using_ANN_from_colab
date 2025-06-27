@@ -1,4 +1,7 @@
- Breast Cancer Prediction Using ANN from Colab
+BREAST CANCER PREDICTION USING ANN 
+
+
+ 
 This project demonstrates how to build, train, and evaluate an Artificial Neural Network (ANN) to predict breast cancer using a publicly available dataset. All implementation is done in Python using Google Colab, making it fully accessible without the need for local setup.
 
 📌 Project Overview
